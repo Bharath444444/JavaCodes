@@ -1,1 +1,1 @@
-Java CODING QUESTIONS for practice 
+Java CODING QUESTIONS 
