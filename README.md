@@ -1,3 +1,2 @@
-..
+
 Java CODING QUESTIONS 
-..
