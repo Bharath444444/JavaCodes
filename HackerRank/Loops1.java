@@ -19,5 +19,7 @@ public class Solution {
           int res=N*i;
           System.out.println(N+ " x " + i + " = " + res);
          }
+        
   }
+    
 }
