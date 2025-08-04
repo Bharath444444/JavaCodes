@@ -1,2 +1,2 @@
 JAVA CODING QUESTIONS 
-Basic
+Basic to medium
